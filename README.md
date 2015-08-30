@@ -11,5 +11,5 @@ Rubies Clicker will farm Rubies in the steam version of Clicker Heroes for you.
 6. Go afk
 
 # Hotkeys
-1. Ctrl+V -> reload
-2. Ctrl+B -> exit
+1. Win+V -> reload
+2. Win+B -> exit
