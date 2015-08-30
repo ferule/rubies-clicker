@@ -1,5 +1,6 @@
 # Rubies Clicker
 Version 0.1 Author: ferule (https://github.com/ferule/) (Adapted from: relanonimous)
+
 Rubies Clicker will farm Rubies in the steam version of Clicker Heroes for you.
 
 # Instructions
